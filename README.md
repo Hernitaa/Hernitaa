@@ -1,36 +1,75 @@
-# Hi, I'm Hernita Rahmawati 👋
+<!-- Banner / Header -->
+<h1 align="center">Hi 👋, I'm Hernita Rahmawati</h1>
+<h3 align="center">Backend Developer & Data Analyst | Universitas 17 Agustus 1945 Surabaya</h3>
 
-🎓 I'm a 7th semester student at **Universitas 17 Agustus 1945 Surabaya**.  
-💻 Focused on **Backend Development** and **Data Analysis**.  
-🚀 Passionate about building efficient systems and learning new technologies.  
+<!-- Foto Profil + Informasi Diri -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="180" style="border-radius:50%" alt="profile photo"/>
+</p>
 
----
-
-## 🔧 Tech Stack & Skills
-- **Languages & Frameworks:** PHP, Laravel, SQL, HTML, CSS  
-- **Tools & Platforms:** Git, GitHub, Microsoft Office, MySQL/PostgreSQL  
-- **Interests:** Backend Development, Database Management, Data Analysis  
-
----
-
-## 📂 Featured Projects
-- 🔹 **[Coming Soon Project 1]** – Backend API with Laravel  
-- 🔹 **[Coming Soon Project 2]** – Data Analysis Dashboard (SQL + Excel)  
-- 🔹 **[Coming Soon Project 3]** – Portfolio Website  
-
-*(Projects will be added here as I build them 🚀)*
+<p align="center">
+  🎓 Mahasiswa Semester 7 <br/>
+  💻 Fokus pada **Backend Development & Data Analysis** <br/>
+  🌍 Surabaya, Indonesia <br/>
+  🔗 GitHub: <a href="https://github.com/Hernitaa">Hernitaa</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Hernita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hernitaa&show_icons=true&theme=tokyonight)
+## 💫 About Me
+- 🌱 Sedang fokus belajar **Fullstack Development & Data Analysis**  
+- 🔧 Berpengalaman dengan **PHP (Laravel), SQL, HTML, CSS**  
+- 📊 Tertarik pada **Data Engineering, API Development, dan Business Intelligence**  
+- 🎯 Target saya adalah menjadi **Backend Engineer / Data Analyst** profesional  
+- ✨ Suka belajar hal baru seperti investasi, bahasa asing, dan teknologi terkini  
 
 ---
 
-## 📫 Connect with Me
-- Email: *(optional, jika mau ditampilkan)*  
-- LinkedIn: *(optional, bisa aku tambahkan link)*  
+## 🚀 Tech Stack & Tools
+### 🔹 Languages & Frameworks
+- PHP, Laravel, HTML, CSS, JavaScript (basic), SQL  
+
+### 🔹 Backend & API Tools
+- Postman, Swagger, Ngrok, Node.js (belajar)  
+
+### 🔹 Database Tools
+- MySQL, PostgreSQL, DBeaver, phpMyAdmin  
+
+### 🔹 Others
+- Git & GitHub  
+- Microsoft Office  
+- VS Code  
+
+### 🔹 Data Analysis
+- Excel, SQL, Power BI *(in progress)*  
 
 ---
 
-✨ *“Keep learning, keep building, and stay curious.”*  
+## 📈 GitHub Stats & Animations
+<p align="center">
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hernitaa&show_icons=true&theme=radical" alt="github stats" height="160"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernitaa&layout=compact&theme=radical" alt="top langs" height="160"/>
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hernitaa&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p align="left">
+<a href="https://github.com/Hernitaa" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="mailto:hernita.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+✨ *README ini otomatis menampilkan statistik & animasi dari aktivitas GitHub saya.*
